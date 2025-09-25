@@ -1,1 +1,1 @@
-CCCC
+console.log("สวัสดีจ้า");
